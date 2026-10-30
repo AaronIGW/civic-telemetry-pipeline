@@ -1,0 +1,12 @@
+# Database & runtime files
+*.db
+*.sqlite3
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment / OS
+.DS_Store
+Thumbs.db
